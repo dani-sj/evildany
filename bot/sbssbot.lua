@@ -254,26 +254,19 @@ function create_config( )
     about_text = [[Sbss Bot V2 Beta
     An Advanced Anti Spam Bot Forked On TeleSeed
     
-    Develpoed By:
-    @Mr_Ah_S
-    Manager:
-    @amiirdada
-    Founder:
-    @AmirQuick
+    Develpoed By: @unkownhacker
     
-    Special Thank To:
-    Mehr Pouya
-    Arman
+    Special Thank To :
     IM/-\N
     Creed Is Dead
     
-    Powered By @Sbss_Team
+    Powered By @unkownhacker
     
     #Open Source
-    https://github.com/SbssTeam/Sbss
+    https://github.com/abbasgh12345/abbas10
 ]],
     help_text_realm = [[
-See Patterns In Github
+See Patterns In Github :https://github.com/SEEDTEAM/TeleSeed
 ]],
     help_text = [[
 
