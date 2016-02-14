@@ -213,6 +213,14 @@ function create_config( )
     "ingroup",
     "inpm",
     "banhammer",
+    "info",
+    "share",
+    "chatbot",
+    "sudoshare",
+    "filter",
+    "google",
+    "pok",
+    "text",
     "stats",
     "anti_spam",
     "owners",
@@ -235,33 +243,30 @@ function create_config( )
     "feedback",
     "getplug",
     "echo",
+    "calc",
+    "echo",
     "plugins",
     "time",
     "welcome"
     },
-    sudo_users = {122774063},--Sudo users
+    sudo_users = {179983320},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Sbss Bot V2 Beta
     An Advanced Anti Spam Bot Forked On TeleSeed
     
-    Develpoed By:
-    @Mr_Ah_S
-    Manager:
-    @amiirdada
-    Founder:
-    @AmirQuick
+    Develpoed By: @unkownahcker
     
     Special Thank To:
-    Mehr Pouya
-    Arman
-    IM/-\N
-    Creed Is Dead
     
-    Powered By @Sbss_Team
+    
+    IM/-\N
+    
+    
+    Powered By @unkownahcker
     
     #Open Source
-    https://github.com/SbssTeam/Sbss
+    https://github.com/abbasgh12345/abbas10
 ]],
     help_text_realm = [[
 See Patterns In Github
@@ -337,9 +342,17 @@ __________________________
 —------------------------------—
 تگ : صدا کردن افراد گروه
 —---------------------—
+!text {text}
+!google {text}
+!info
+!filter + text
+!filter - text
+!listft
+!echo {text}
+!calc 2+2
 نیاز نیست از '!' و '/' استفاده کنید*
 _______________________________
-Writed by SBSS Team
+Writed by extreme team
 ]]
   }
   serialize_to_file(config, './data/config.lua')
