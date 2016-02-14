@@ -6,7 +6,7 @@ end
 
 return {
 patterns = {
-"^!sudoshare$"
+"^!share$"
 
 },
 run = run
